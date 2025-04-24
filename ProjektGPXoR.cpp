@@ -1,4 +1,4 @@
-﻿#include <iostream>
+#include <iostream>
 #include"PlikGPX.h"
 #include"AnalizTrasa.h"
 int main()
